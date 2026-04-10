@@ -14,6 +14,3 @@
 </picture>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vejvoda2023&theme=synthwave-84)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=48&pause=1000&color=F7F7F7&center=true&repeat=false&width=1000&height=100&lines=In+case+I+don't+see+you%2C;Good+morning%2C+Good+afternoon%2C+And+good+night.)](https://git.io/typing-svg)
